@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jonathanstanley7447-sketch.github.io/one-night-mystery/sitemap.xml
